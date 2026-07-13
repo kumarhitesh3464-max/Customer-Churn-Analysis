@@ -1,6 +1,6 @@
 Horizen-02.ipynb
 # 📊 Customer Churn Analysis
-
+https://github.com/kumarhitesh3464-max/Customer-Churn-Analysis/blob/main/Horizen-02.ipynb
 ## 📌 Overview
 
 This project predicts customer churn using machine learning. It analyzes customer behavior to identify customers who are likely to leave the service and provides business insights for improving customer retention.
